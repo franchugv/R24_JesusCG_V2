@@ -1,0 +1,32 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="R24_JesusCG_V1.Cuenta">
+    <Position X="2" Y="0.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>MAiAAAEAAgBAACIAAAAAAAAAAgAAEAAIAAQAAAAAACA=</HashCode>
+      <FileName>Cuenta.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="R24_JesusCG_V1.CuentaJoven">
+    <Position X="9.5" Y="1" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>CAAAAAAAAgBAAAAAAAAAAAAAAAAAAAAAAAAAAAAEAAA=</HashCode>
+      <FileName>CuentaJoven.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="R24_JesusCG_V1.CuentaOro">
+    <Position X="7.75" Y="2.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>CAAAAAAAAgBAAAAAAAAAAAAAAAAAAAAAAAAAAAAEAAA=</HashCode>
+      <FileName>CuentaOro.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="R24_JesusCG_V1.CuentaPlatino">
+    <Position X="5" Y="3.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>CAAAAAAAAgBAAAAAAAAAAAAAAAAAAAAAAAAAAAAAgAA=</HashCode>
+      <FileName>CuentaPlatino.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
